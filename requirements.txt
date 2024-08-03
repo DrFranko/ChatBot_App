@@ -1,0 +1,8 @@
+fastapi
+requests
+streamlit
+uvicorn
+python-dotenv
+langserve
+langchain_community
+langchain_core
